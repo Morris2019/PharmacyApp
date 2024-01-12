@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<popups:Popup
+ xmlns:popups="http://xamarin.com/schemas/2020/toolkit"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundColor="{StaticResource colorWhite}"
+    xmlns:pancakeview="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+    xmlns:ffimage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+    Size="330,380"
+    HorizontalOptions="CenterAndExpand"
+    VerticalOptions="CenterAndExpand"
+    x:Class="Tobinco.ViewPages.ConfrimMedicalRequest">
+
+     <StackLayout Orientation="Vertical" Padding="20">
+
+          <StackLayout Orientation="Horizontal">
+
+             <Label Text="Transactions"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="CenterAndExpand"
+                    TextColor="{StaticResource colorBlack27}"
+                    FontSize="Title"
+                    FontAttributes="Bold"/>
+              </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Margin="0,30,0,0">
+               <Label
+                    Text="Transaction ID:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="0243444443"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+         <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Doctor:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="Dr. Abigail Nitamoah"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+         <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Hospital:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="adenta clinic"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+          <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Subtotal:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="GH 5530"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+          <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Tax:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="3%"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+          <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Discount:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="5%"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+          <StackLayout Orientation="Horizontal">
+               <Label
+                    Text="Total Amount:"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+               <Label
+                    Text="GH 4689"
+                    FontFamily="MaterialIcons"
+                    TextTransform="Uppercase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="EndAndExpand"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    TextColor="#000000"/>
+        </StackLayout>
+
+         <StackLayout HorizontalOptions="Fill"
+                      VerticalOptions="EndAndExpand">
+              <pancakeview:PancakeView
+                        Grid.Row="1"
+                        BackgroundColor="{StaticResource GreenColor}"
+                        Border="{pancakeview:BorderMarkup Color=#ffffff, Thickness='1'}"
+                        CornerRadius="30"
+                        Margin="10,0,10,20"
+                        HeightRequest="50"
+                        HorizontalOptions="FillAndExpand">
+                        <pancakeview:PancakeView.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ClosePostBill" />
+                        </pancakeview:PancakeView.GestureRecognizers>
+                        <Label
+                            FontAttributes="Bold"
+                            FontSize="20"
+                            HorizontalOptions="CenterAndExpand"
+                            Text="Post Bill"
+                            TextColor="White"
+                            VerticalOptions="CenterAndExpand" />
+              </pancakeview:PancakeView>
+                      
+         </StackLayout>
+     </StackLayout>
+</popups:Popup>

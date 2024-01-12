@@ -1,0 +1,85 @@
+@string/appbar_scrolling_view_behavior;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/fade_in.xml
+alpha;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/fade_out.xml
+alpha;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/enterfromleft.xml
+alpha;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/exittoleft.xml
+androidx.appcompat.widget.Toolbar;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/shellcontent.xml
+attr;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/attrs.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+changeBounds;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/transition/navigation_transition.xml
+changeClipBounds;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/transition/navigation_transition.xml
+changeImageTransform;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/transition/navigation_transition.xml
+changeTransform;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/transition/navigation_transition.xml
+color;obj/Release/res/values/colors.xml
+color;obj/Release/res/values/ic_launcher_background.xml
+com.google.android.material.appbar.AppBarLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/tabbar.xml
+declare-styleable;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/attrs.xml
+external-cache-path;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/56/jl/res/layout/camerafragment.xml
+FrameLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/bottomtablayout.xml
+item;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/styles.xml
+LinearLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/bottomtablayout.xml
+paths;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/attrs.xml
+resources;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/strings.xml
+resources;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/styles.xml
+resources;obj/Release/res/values/colors.xml
+resources;obj/Release/res/values/ic_launcher_background.xml
+resources;obj/Release/res/values/styles.xml
+scale;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_in.xml
+scale;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_out.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_bottom.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_left.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_right.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_top.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_bottom.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_left.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_right.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_top.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/fade_in.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/fade_out.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_in.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_out.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/enterfromleft.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/enterfromright.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/exittoleft.xml
+set;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/exittoright.xml
+string;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/strings.xml
+style;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/values/styles.xml
+style;obj/Release/res/values/styles.xml
+transitionSet;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/transition/navigation_transition.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_bottom.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_left.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_right.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/enter_top.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_bottom.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_left.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_right.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/exit_top.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_in.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/3/jl/res/anim/flip_out.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/enterfromleft.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/enterfromright.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/exittoleft.xml
+translate;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/anim/exittoright.xml
+xamarin.communitytoolkit.ui.views.AutoFitTextureView;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/56/jl/res/layout/camerafragment.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Users/emmanuelmorrison/Documents/Development Project/Tobinco/Tobinco.Android/obj/Release/lp/59/jl/res/layout/flyoutcontent.xml
